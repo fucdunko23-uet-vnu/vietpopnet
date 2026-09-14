@@ -1,0 +1,46 @@
+============================================================
+VietPopNet -- Fix Province Names (Byte-Exact Matching)
+============================================================
+
+[Step 1] Loaded 1,000 rows, 21 columns
+
+[Step 2] Applying byte-exact province mapping...
+  SUCCESS: Fixed 881 values, all names mapped!
+  Total fixes applied: 881
+
+[Step 3] Backup: d:\Coding_prj\Final_prj_ML+DL\data\synthetic_commune_census_microcensus_backup.csv
+[Step 4] Saved: d:\Coding_prj\Final_prj_ML+DL\data\synthetic_commune_census_microcensus.csv
+
+============================================================
+SUMMARY
+============================================================
+Total rows: 1,000
+Unique provinces: 15
+
+Province list:
+  Bắc Ninh                       | dong_bang_song_hong                 | rows: 26
+  Gia Lai                        | tay_nguyen                          | rows: 22
+  Huế                            | duyen_hai_mien_trung                | rows: 27
+  Hà Nội                         | dong_bang_song_hong                 | rows: 34
+  Hưng Yên                       | dong_bang_song_hong                 | rows: 34
+  Hải Phòng                      | dong_bang_song_hong                 | rows: 62
+  Khánh Hòa                      | tay_nguyen                          | rows: 46
+  Lâm Đồng                       | tay_nguyen                          | rows: 31
+  Ninh Bình                      | dong_bang_song_hong                 | rows: 56
+  Phú Thọ                        | mien_nui_phia_bac                   | rows: 29
+  Quảng Ngãi                     | duyen_hai_mien_trung                | rows: 29
+  Tây Ninh                       | dong_nam_bo                         | rows: 24
+  Đà Nẵng                        | duyen_hai_mien_trung                | rows: 28
+  Đắk Lắk                        | tay_nguyen                          | rows: 29
+  Đồng Nai                       | dong_nam_bo                         | rows: 523
+
+Region distribution:
+  dong_nam_bo: 547
+  dong_bang_song_hong: 212
+  tay_nguyen: 128
+  duyen_hai_mien_trung: 84
+  mien_nui_phia_bac: 29
+
+SUCCESS: All 15 province names are valid 2026 names!
+
+Done.

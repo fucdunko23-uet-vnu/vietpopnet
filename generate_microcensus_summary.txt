@@ -1,0 +1,35 @@
+Province distribution (rows):
+  An Giang                  (dong_bang_song_cuu_long       ):  21
+  Cà Mau                    (dong_bang_song_cuu_long       ):  15
+  Cần Thơ                   (dong_bang_song_cuu_long       ):  21
+  Vĩnh Long                 (dong_bang_song_cuu_long       ):  16
+  Đồng Tháp                 (dong_bang_song_cuu_long       ):  20
+  Bắc Ninh                  (dong_bang_song_hong           ):  23
+  Hà Nội                    (dong_bang_song_hong           ):  87
+  Hưng Yên                  (dong_bang_song_hong           ):  32
+  Hải Phòng                 (dong_bang_song_hong           ):  34
+  Ninh Bình                 (dong_bang_song_hong           ):  29
+  Quảng Ninh                (dong_bang_song_hong           ):  26
+  TP. Hồ Chí Minh           (dong_nam_bo                   ):  48
+  Tây Ninh                  (dong_nam_bo                   ):  20
+  Đồng Nai                  (dong_nam_bo                   ):  20
+  Huế                       (duyen_hai_mien_trung          ):  20
+  Hà Tĩnh                   (duyen_hai_mien_trung          ):  35
+  Nghệ An                   (duyen_hai_mien_trung          ):  69
+  Quảng Ngãi                (duyen_hai_mien_trung          ):  25
+  Quảng Trị                 (duyen_hai_mien_trung          ):  22
+  Thanh Hóa                 (duyen_hai_mien_trung          ):  78
+  Đà Nẵng                   (duyen_hai_mien_trung          ):  16
+  Cao Bằng                  (mien_nui_phia_bac             ):  23
+  Lai Châu                  (mien_nui_phia_bac             ):  15
+  Lào Cai                   (mien_nui_phia_bac             ):  23
+  Lạng Sơn                  (mien_nui_phia_bac             ):  30
+  Phú Thọ                   (mien_nui_phia_bac             ):  37
+  Sơn La                    (mien_nui_phia_bac             ):  31
+  Thái Nguyên               (mien_nui_phia_bac             ):  26
+  Tuyên Quang               (mien_nui_phia_bac             ):  21
+  Điện Biên                 (mien_nui_phia_bac             ):  20
+  Gia Lai                   (tay_nguyen                    ):  27
+  Khánh Hòa                 (tay_nguyen                    ):  20
+  Lâm Đồng                  (tay_nguyen                    ):  20
+  Đắk Lắk                   (tay_nguyen                    ):  30
